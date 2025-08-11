@@ -1,0 +1,34 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Change this if your default branch is 'master'
+
+permissions:
+  contents: write  # REQUIRED: allow Actions to push commits
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout your repository
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # fetch all history so gh-pages branch can be updated
+
+      # (Optional) Build your project — change commands for your project type
+      # If you already have a ready "output" folder in your repo, skip this step
+      - name: Build project
+        run: |
+          npm install
+          npm run build
+
+      # Deploy to GitHub Pages branch
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output  # Change this to your build folder (e.g., ./dist)
