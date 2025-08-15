@@ -98,7 +98,7 @@
 <hr />
 
 <!-- visitors -->
-<h3 align="center">🧭 Visitors Count</h3>
+<h3 align="center">🧭 LOL</h3>
 <p align="center">
   <img src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/jenslin.gif" />
 </p>
