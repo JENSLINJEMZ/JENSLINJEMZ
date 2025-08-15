@@ -100,7 +100,7 @@
 <!-- visitors -->
 <h3 align="center">🧭 Visitors Count</h3>
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JENSLINJEMZ&icon=0&color=0" />
+  <img src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/jenslin.gif" />
 </p>
 
 <!-- support -->
