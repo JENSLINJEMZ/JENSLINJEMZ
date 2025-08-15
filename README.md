@@ -31,7 +31,7 @@
   <a href="mailto:jenslinjemz123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
-<hr />
+<hr/>
 
 <!-- skills -->
 <h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
