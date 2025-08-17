@@ -11,7 +11,7 @@
 <br />
 <!-- about me -->
 <p align="center">
-  ⚔️ Ethical Hacker | 💻 Full Stack Developer | 🔐 Security Enthusiast | 🎮 Gamer
+  ⚔️ Ethical Hacker | 💻 Full Stack Developer | 🔐 Security Enthusiast | 🎮 Gamer.
   <br />
   <br />
   🎓 Currently a Chemical Engineering student.
