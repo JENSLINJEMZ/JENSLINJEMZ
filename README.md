@@ -108,3 +108,7 @@
 <p align="center">
   <a href="https://paypal.me/jenslinjemz123"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
+</p>
