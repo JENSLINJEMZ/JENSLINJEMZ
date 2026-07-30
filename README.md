@@ -108,5 +108,3 @@
 <p align="center">
   <a href="https://paypal.me/jenslinjemz123"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
-
-this is my github README.md file now modidy this and make this more attractieve
