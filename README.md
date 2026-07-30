@@ -1,25 +1,34 @@
 <!--- profile view count --->
-<img align="right" src="https://komarev.com/ghpvc/?username=JENSLINJEMZ" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=JENSLINJEMZ&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Jenslin+S!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+There!+👋;+I'm+Jenslin+S!;+Ethical+Hacker+%26+Developer;&center=true&font=Fira%20Code&size=30&duration=3000&pause=500&color=F75C7E&width=435" />
   </a>
 </h1>
 
 <br />
+
 <!-- about me -->
+<div align="center">
+  <img src="https://img.shields.io/badge/-Ethical%20Hacker-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0A0A0A?style=for-the-badge&logo=stackoverflow&logoColor=FE7A16" />
+  <img src="https://img.shields.io/badge/-Security%20Enthusiast-0A0A0A?style=for-the-badge&logo=security&logoColor=00B4D8" />
+  <img src="https://img.shields.io/badge/-Gamer-0A0A0A?style=for-the-badge&logo=steam&logoColor=FFFFFF" />
+</div>
+
+<br />
+
 <p align="center">
-  ⚔️ Ethical Hacker | 💻 Full Stack Developer | 🔐 Security Enthusiast | 🎮 Gamer.
-  <br />
-  <br />
-  🎓 Currently a Chemical Engineering student.
-  <br />
-  💻 Passionate about cybersecurity, development, and tech experiments.
-  <br />
-  🚀 Working on CTFs, web apps, and automation tools.
+  <samp>
+    🎓 <strong>Chemical Engineering</strong> student by day, code ninja by night.<br>
+    💻 Passionate about <strong>cybersecurity</strong>, <strong>web development</strong>, and building cool tech experiments.<br>
+    🚀 Currently diving deep into <strong>CTFs</strong>, building <strong>web apps</strong>, and automating everything.
+  </samp>
 </p>
+
+<br />
 
 <!-- social handles -->
 <div align="center"> 
@@ -43,7 +52,7 @@
 </p>
 
 <!-- deployment -->
-<h3 align="center">Deployment & Cloud</h3>
+<h3 align="center">☁️ Deployment & Cloud ☁️</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,gcp,netlify,vercel,cloudflare&theme=dark" />
@@ -60,13 +69,12 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/snakegame_light.svg" />
     <img alt="github-snake" src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/sneakgame_dark.svg" />
   </picture>
-
 </div>
 
 <hr />
 
 <!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br />
 <p align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JENSLINJEMZ&theme=react&hide_border=true" />
@@ -89,22 +97,27 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JENSLINJEMZ&repo=Web-Security-Toolkit&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
-
-<br /><br />
-<h4 align="center">
-  <a href="https://github.com/JENSLINJEMZ?tab=repositories">🔎 Show More 🔍</a>
-</h4>
+<br />
+<p align="center">
+  <a href="https://github.com/JENSLINJEMZ?tab=repositories"><img src="https://img.shields.io/badge/🔎_Show_More_Repositories-2b3137?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <hr />
 
 <!-- visitors -->
-<h3 align="center">🧭 LOL</h3>
+<h3 align="center">🧭 Keep Hacking 🧭</h3>
 <p align="center">
-  <img src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/jenslin.gif" />
+  <img src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/jenslin.gif" width="400" />
 </p>
 
 <!-- support -->
 <h3 align="center">💰 Support Me</h3>
 <p align="center">
   <a href="https://paypal.me/jenslinjemz123"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
+
+<!-- footer -->
+<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
