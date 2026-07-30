@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  🎓 Chemical Engineering Student<br>
+  🎓 Engineering Student<br>
   💻 Cybersecurity • Web Development • Automation<br>
   🚀 CTF Player • Bug Hunter • Open Source Contributor
 </p>
