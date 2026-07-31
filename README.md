@@ -56,9 +56,9 @@
 <div align="center">
   <h2>🐍 Snake eating my contribution graph 🐍</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/sneakgame_dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/snakegame_light.svg" />
-    <img alt="github-snake" src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/main/sneakgame_dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/output/sneakgame_dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/output/snakegame_light.svg" />
+    <img alt="github-snake" src="https://github.com/JENSLINJEMZ/JENSLINJEMZ/blob/output/sneakgame_dark.svg" />
   </picture>
 
 </div>
