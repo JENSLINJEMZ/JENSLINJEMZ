@@ -1,4 +1,5 @@
 <!--- profile view count --->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=74FFFC&height=250&section=header&text=JENSLIN%20S&fontSize=80&animation=fadeIn&fontAlignY=40" alt="Header" width="100%" />
 <img align="right" src="https://komarev.com/ghpvc/?username=JENSLINJEMZ" />
 
 <!-- introduction -->
