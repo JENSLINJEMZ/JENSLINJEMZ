@@ -68,13 +68,16 @@
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
-<p align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=JENSLINJEMZ&theme=react&hide_border=true" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=JENSLINJEMZ&show_icons=true&theme=react&hide_border=true" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JENSLINJEMZ&theme=react-dark" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JENSLINJEMZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=74FFFC&icon_color=38BDF8&text_color=F8FAFC" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JENSLINJEMZ&theme=tokyonight&hide_border=true&background=050505&ring=74FFFC&fire=06B6D4&currStreakNum=F8FAFC" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 <hr />
 
