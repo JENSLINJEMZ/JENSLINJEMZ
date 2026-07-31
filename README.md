@@ -92,6 +92,10 @@
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=JENSLINJEMZ&repo=Web-Security-Toolkit&theme=react&border_color=61dafb&border_radius=10" />
   </a>
 </div>
+</br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JENSLINJEMZ&theme=tokyonight" alt="GitHub Profile Summary" />
+</div>
 
 <br /><br />
 <h4 align="center">
